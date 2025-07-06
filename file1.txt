@@ -1,3 +1,7 @@
 hello from file1
+<<<<<<< HEAD
 Updated content
 master Updated contend
+=======
+feature Updated content
+>>>>>>> feature
